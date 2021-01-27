@@ -8,4 +8,16 @@
 
 ## Experiences
 
-* living life
+# Academic
+* Could tie my shoes at 6 months
+	* (okay maybe this is a _little_ inaccurate...)
+
+# Personal
+* Living Life
+* 2nd best time Pitcher chug
+	* 13.7s
+
+# Professional
+* Completed Forklift Operator Training and Certification
+
+
