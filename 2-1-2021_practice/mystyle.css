@@ -1,22 +1,12 @@
-div > div {
-
-    border: 1px solid green;
-
-}
-
-div > div {
-
+div div {
     display: inline-block;
-
 }
+
 #main_container {
-    margin-bottom: ;
     padding: 10px;
     border: 1px solid orange;
 }
 
 img {
-
-    width: 100px; height: 100px;
-
+    width: 150px; height: 150px;
 }
